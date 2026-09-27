@@ -1,0 +1,34 @@
+# SkillSentra Personal-Free / Commercial Project Revenue License
+
+Version 1.2, 2026-09-27. **Terms finalized; local preparation is neither public distribution nor a signed commercial authorization.** This is a custom source-available license, not an OSI open-source license. This is an English rendering of the inherited version 1.2 terms. The original controlling text is included in licenses/LICENSE-v1.2-original.txt. Personal Edition removes billing functionality and does not waive these terms.
+
+## Parties and material
+The licensor means the rights holder authorized to license the relevant software. The contracting parties and signing authority must be verified in the separate commercial agreement. This public text does not list personal names or contact email addresses. The project maintainer account is AIfromScratch66; an account name alone does not establish the legal contracting party. The license covers only SkillSentra material that the licensor has authority to license. Independent dependencies, imported Skills and user inputs retain their own rights and licenses. No blanket trademark permission is granted.
+
+## Free personal non-commercial use
+Only a natural person's own non-commercial learning, research and private affairs are free. Freelancing, paid services, and commercial projects for employers or clients are commercial use. Acting as an individual or sole proprietor does not create a free-use exception.
+
+Within this personal non-commercial scope, users may run, study, modify and share the software without charging for distribution, retaining notices, the same scope and modification labels. No additional downstream commercial rights are granted.
+
+## Confirmed commercial rule
+**License fee = revenue of commercial projects using the software × 20%.** The basis is project revenue, not profit, saved costs, token fees, or all revenue of an unrelated business. Commercial projects include identifiable contracts, orders, products or services that use the software or its modifications in production, delivery or operation, including commercial work using its outputs.
+
+The full identified project is the default scope. Users may not unilaterally substitute estimated incremental value or software contribution for project revenue. Separately identifiable unrelated projects in a bundled contract require an agreed written allocation. The licensor does not automatically claim ownership of all user outputs; output rights and contractual commercial fees are separate matters.
+
+Before commercial use, sign a written agreement defining parties, project, effective date, revenue recognition, refunds/taxes, reporting period, currency, payment and termination. The commercial agreement must set out the project schedule. Downloading, promising future payment or sending an unsolicited payment does not create a signed authorization. This license applies to versions lawfully distributed by the licensor and does not retroactively change previously granted licenses. The signed agreement determines the commercial start date.
+
+## Conditions and privacy
+Keep notices and identify modifications. Do not impersonate official releases or evade fees through modifications, subcontracting or affiliates. Commercial hosting, paid redistribution and embedding require express coverage. Third-party licenses remain independent.
+
+Users are responsible for their inputs, imported Skills and provider fees. This policy adds no covert income monitoring, automatic collection or live payment mechanism. Reporting and proportionate verification must be agreed with confidentiality protections.
+
+## Liability and finalization
+To the extent permitted by law, the software is provided as-is without warranties of fitness, accuracy, security or a particular AI/business outcome; mandatory legal rights are not excluded. The signed agreement must identify governing law, dispute resolution, liability limits and breach remedies; this document does not presume unagreed jurisdiction terms.
+
+Rights review and publication checks remain required. Finalized terms do not establish public distribution, rights clearance or a signed commercial project agreement. The signed commercial agreement may specify additional terms for its defined scope.
+
+## Term, breach and termination
+The license applies to a version when lawfully distributed by the authorized licensor and does not retroactively change earlier grants. Serious infringement or malicious disclosure may be addressed under applicable law. Notice, remedy periods, cessation of new commercial use and data export arrangements for other breaches must be set out in the formal license or commercial agreement. Termination does not extinguish valid payment obligations already incurred or transfer the user's rights in their own data.
+
+## Modification notice
+This Personal Edition replaces the platform interface and service with a local individual workflow. The original platform is retained in the private local baseline/0.6.7 branch. This branch does not represent a feature-identical original release.

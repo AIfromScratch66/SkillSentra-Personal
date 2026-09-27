@@ -1,0 +1,13 @@
+{
+  "name": "skillsentra-personal",
+  "version": "0.7.0-personal.1",
+  "private": true,
+  "description": "Personal Skill authoring with explicit ChatGPT collaboration",
+  "license": "SEE LICENSE IN LICENSE",
+  "scripts": {
+    "test:browser": "node --test tests/browser.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

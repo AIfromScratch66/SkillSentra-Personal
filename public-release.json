@@ -1,0 +1,17 @@
+{
+  "product": "SkillSentra Personal",
+  "version": "0.7.0-personal.1",
+  "branch": "main",
+  "baseline_branch": "baseline/0.6.7",
+  "baseline_commit": "d7ad6ed",
+  "audience": "individual personal non-commercial users",
+  "license_policy": "inherited version 1.2; no waiver of commercial terms",
+  "rights_review": "pending",
+  "private_security_channel": "pending",
+  "public_release_authorized": true,
+  "external_model_verification": "not_performed",
+  "publication_status": "public Developer Preview authorized",
+  "development_branch": "personal/chatgpt",
+  "repository": "https://github.com/AIfromScratch66/SkillSentra-Personal",
+  "publication_scope": "current snapshot only; private baseline history excluded"
+}
